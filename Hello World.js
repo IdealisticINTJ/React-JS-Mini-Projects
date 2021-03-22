@@ -1,3 +1,5 @@
+// My first React JS Code...
+
 function Welcome(props) {
   return <h1>All Hail... {props.name}</h1>;
 }
